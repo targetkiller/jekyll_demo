@@ -1,1 +1,1 @@
-baseurl: /targetkiller/jekyll_demo
+permalink:/targetkiller/blog/:year/:minth/:day/:title
